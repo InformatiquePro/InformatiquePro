@@ -1,6 +1,6 @@
 <!-- bannière animée -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Salut+et+bienvenue+sur+mon+GitHub+!;Je+suis+passionné+de+code+et+d'électronique+🛠️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Salut+et+bienvenue+sur+mon+GitHub+!;Passionné+de+code+et+d'électronique+🛠️" alt="Typing animation" />
 </p>
 
 
