@@ -55,7 +55,7 @@
 
 💬 Tu veux discuter d’un projet ou collaborer ?
 <p align="center">
-  📫 <a href="mailto:contact.ip-dev@orange.fr">contact.ip-dev@orange.fr</a>
+  📫 <a href="mailto:contact.charles-elie@orange.fr">contact.charles-elie@orange.fr</a>
 </p>
 
 ---
@@ -118,7 +118,7 @@
 
 💬 Want to talk about a project or collaborate?
 <p align="center">
-  📫 <a href="mailto:contact.ip-dev@orange.fr">contact.ip-dev@orange.fr</a>
+  📫 <a href="mailto:contact.charles-elie@orange.fr">contact.charles-elie@orange.fr</a>
 </p>
 
 ---
