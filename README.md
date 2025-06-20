@@ -1,5 +1,5 @@
 # French Version
-*the English version is below*
+*the English version is below or here ->* https://github.com/InformatiquePro#english-version 
 <!-- bannière animée -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=+Salut+et+bienvenue+sur+mon+GitHub+;+Je+suis+passionne+de+code+et+d%27electronique+ " alt="Texte animé" />
