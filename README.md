@@ -1,7 +1,8 @@
 <!-- bannière animée -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Bienvenue+sur+mon+GitHub+!;Je+suis+passionn%C3%A9+de+code+et+d%27%C3%A9lectronique+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Salut+et+bienvenue+sur+mon+GitHub+!;Je+suis+passionné+de+code+et+d'électronique+🛠️" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
