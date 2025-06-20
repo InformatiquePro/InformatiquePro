@@ -52,7 +52,9 @@
 ## 🌐 Me contacter
 
 💬 Tu veux discuter d’un projet ou collaborer ?
-📫 [contact.ip-dev@orange.fr(mailto:contact.ip-dev@orange.fr)
+<p align="center">
+  📫 <a href="mailto:contact.ip-dev@orange.fr">contact.ip-dev@orange.fr</a>
+</p>
 
 ---
 
