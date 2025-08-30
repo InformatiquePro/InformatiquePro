@@ -14,13 +14,7 @@
 
 ## 👋 À propos de moi
 
-- 🎓 Passionné de programmation, bidouilleur Arduino et ESP8266
-- 💻 Je code principalement en :
-  - **Java ☕**
-  - **C++ 🔧**
-  - **Python 🐍**
-  - **Arduino (INO) ⚡**
-
+- 🎓 Passionné de programmation, bidouilleur Arduino et ESP
 - 🧪 J’aime créer des projets électroniques et des petits outils logiciels
 - 🌱 Je suis toujours en train d’apprendre et d’expérimenter de nouvelles technologies
 
@@ -29,9 +23,6 @@
 ## 🚀 Langages et outils
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=esphome&logoColor=white"/>
 </p>
@@ -79,12 +70,6 @@
 ## 👋 About me
 
 - 🎓 Passionate about programming, Arduino and ESP8266 tinkerer
-- 💻 I mainly code in:
-  - **Java ☕**
-  - **C++ 🔧**
-  - **Python 🐍**
-  - **Arduino (INO) ⚡**
-
 - 🧪 I enjoy creating electronic projects and small software tools
 - 🌱 I am always learning and experimenting with new technologies
 
@@ -93,9 +78,6 @@
 ## 🚀 Languages and tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=esphome&logoColor=white"/>
 </p>
